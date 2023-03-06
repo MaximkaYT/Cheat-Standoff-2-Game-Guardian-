@@ -1,0 +1,469 @@
+Ножи:
+KarambitClaw = 72002
+KarambitGold = 72003
+KarambitIceDragon = 72004
+KarambitScratch = 72006
+KarambitUniverse = 72007
+
+Butterfly_DragonGlass = 47503
+Butterfly_Gold = 47502
+Butterfly_New1 = 57501
+Butterfly_Red = 47504
+Butterfly_Starfall = 47505
+
+Kunai_Bone = 77813
+Kunai_Luxury = 77814
+Kunai_Poison = 77815 gg.editAll((((((
+Kunai_Radiation = 77816
+Kunai_Reaper = 77817
+
+M9BayonetAncient = 71002
+M9BayonetBlueBlood = 71001
+M9BayonetScratch = 71003
+M9BayonetUniverse = 71004
+M9BayonetDragonGlass = 71005
+
+Scorpion_Camouflage = 87919
+Scorpion_Green = 87920
+Scorpion_Scratch = 87921
+Scorpion_Sky = 87922
+
+jKommandoAncient = 73002
+jKommandoFloral = 73004
+jKommandoLuxury = 73006
+jKommandoReaper = 73003
+
+FlipKnife_New1 = 67701
+FlipKnife_New2 = 67702
+FlipKnife_New3 = 67703
+FlipKnife_New4 = 67704
+FlipKnife_New5 = 67705
+
+Оружия:
+AKR12Aurora = 45004
+AKR12Mechanic = 45003
+AKR12PixelCamouflage = 45002
+AKR12PixelCamouflageStatTrack = 1045002
+AKR12Railgun = 45001
+AKR12RailgunStatTrack = 1045001
+AKR12_Carbon = 84500
+AKR12_Carbon_StatTrack = 1084500
+AKR12_Spring = 84501
+
+AKRCarbon = 44006
+AKRCarbonStatTrack = 1044006
+AKRNecromancer = 44005
+AKRNecromancerStatTrack = 1044005
+AKRSport = 44004
+AKRSportStatTrack = 1044004
+AKRTiger = 44003
+AKRTreasureHunter = 44002
+AKRTreasureHunterStatTrack = 1044002
+AKR_2Years = 44007
+AKR_Dragon = 84402
+AKR_Dragon_StatTrack = 1084402
+AKR_Nano = 84403
+AKR_Nano_StatTrack = 1084403
+AKR_New2 = 54401
+AKR_Worm = 44401
+AMW_New1 = 65101
+AMW_New1_StatTrack = 1065101
+
+AWMGear = 51003
+AWMGearStatTrack = 1051003
+AWMGenesis = 51007
+AWMGenesisStatTrack = 1051007
+AWMPhoenix = 51002
+AWMPhoenixStatTrack = 1051002
+AWMScratch = 51004
+AWMScratchStatTrack = 1051004
+AWMSport = 51001
+AWMSportV2 = 51006
+AWM_2YearsRed = 51008
+AWM_Dragon = 85127
+AWM_Dragon_StatTrack = 1085127
+AWM_TreasureHunter = 85104
+
+DeagleBlood = 15002
+DeagleCaptainMorgan = 15001
+DeagleDragonGlass = 15006
+DeagleDragonGlassStatTrack = 1015006
+DeaglePredator = 15003
+DeaglePredatorStatTrack = 1015003
+DeagleRedDragon = 15004
+DeagleRedDragonStatTrack = 1015004
+DeagleThunder = 15007
+DeagleWinner = 15005
+Deagle_Ace = 41502
+Deagle_Ace_StatTrack = 1041502
+Deagle_Pro = 81505
+
+FabM_Green = 86317
+FabM_Parrot = 86318
+FabM_Parrot_StatTrack = 1086318
+FabM_Reactor = 76218
+FabM_Reactor_StatTrack = 1076218
+
+FAMAS_Monster = 74800
+FAMAS_Monster_StatTrack = 1074800
+FamasBeagle = 48001
+FamasBeagleStatTrack = 1048001
+FamasFury = 48002
+FamasFuryStatTrack = 1048002
+FamasHull = 48003
+FamasHullStatTrack = 1048003
+
+FiveSeven_New2 = 51701
+FiveSeven_Poison = 71701
+FiveSeven_Poison_StatTrack = 1071701
+FiveSeven_SightGrey = 81726
+FiveSeven_SightGrey_StatTrack = 1081726
+FiveSeven_SightRed = 81725
+FiveSeven_Tactical = 41703
+FiveSeven_Tactical_StatTrack = 1041703
+FiveSeven_Venom = 41701
+FiveSeven_Venom_StatTrack = 1041701
+FiveSeven_Zone = 71702
+FiveSeven_Zone_StatTrack = 1071702
+
+FnFAL_AcidCarbon = 44902
+FnFAL_Leather = 44901
+FnFAL_Tactical = 44903
+FnFAL_Tactical_StatTrack = 1044903
+FnFal_Green = 84906
+
+G22FrostWyrm = 11008
+G22FrostWyrmStatTrack = 1011008
+G22Inferno = 11006
+G22Nest = 11002
+G22NestStatTrack = 1011002
+G22Pattern = 11005
+G22PixelCamouflage = 11001
+G22_Carbon = 81107
+G22_Carbon_StatTrack = 1081107
+G22_Monster = 71103
+G22_Monster_StatTrack = 1071103
+G22_New1 = 61101
+G22_New1_StatTrack = 1061101
+G22_Relic = 41101
+G22_Starfall = 41102
+G22_Starfall_StatTrack = 1041102
+G22_WhiteCarbon = 71104
+G22_WhiteCarbon_StatTrack = 1071104
+G22_YellowLine = 81108
+
+M110_Cyber = 45301
+M110_Cyber_StatTrack = 1045301
+
+M16Camouflage = 47001
+M16Facet = 47003
+M16Winged = 47002
+M16WingedStatTrack = 1047002
+
+M40Beagle = 52003
+M40BeagleStatTrack = 1052003
+M40Pro = 52002
+M40Quake = 52001
+M40QuakeStatTrack = 1052001
+M40_Monster = 75205
+M40_Monster_StatTrack = 1075205
+M40_New1 = 65201
+M40_New1_StatTrack = 1065201
+M40_New2 = 65202
+M40_New2_StatTrack = 1065202
+
+M4GrandPrix = 46007
+M4GrandPrixStatTrack = 1046007
+M4Necromancer = 46002
+M4NecromancerStatTrack = 1046002
+M4Predator = 46001
+M4Pro = 46006
+M4ProStatTrack = 1046006
+M4Tiger = 46003
+M4_Lizard = 44601
+M4_Lizard_StatTrack = 1044601
+M4_New2 = 54601
+M4_Samurai = 44603
+M4_Samurai_StatTrack = 1044603
+M4_Wolf = 84624
+M4_Wolf_StatTrack = 1084624
+
+MP5_ProjectZ9 = 73610
+MP5_ProjectZ9_StatTrack = 1073610
+MP5_Reactor = 73611
+MP5_Reactor_StatTrack = 1073611
+MP5_Zone = 73612
+MP5_Zone_StatTrack = 1073612
+
+MP7Arcade = 34002
+MP7ArcadeStatTrack = 1034002
+MP7Offroad = 34001
+MP7OffroadStatTrack = 1034001
+MP7_2Years = 34003
+MP7_2YearsRed = 34004
+MP7_Girl = 83409
+MP7_Graffity = 83410
+MP7_Graffity_StatTrack = 1083410
+MP7_Lich = 43402
+MP7_Lich_StatTrack = 1043402
+MP7_Monkey = 83411
+MP7_Monkey_StatTrack = 1083411
+MP7_New1 = 63401
+MP7_New1_StatTrack = 1063401
+MP7_Thorn = 43401
+
+ProjectZ9Brilliant = 133
+ProjectZ9Bronze = 129
+ProjectZ9Gold = 131
+ProjectZ9GoldPass = 603
+ProjectZ9Platinum = 132
+ProjectZ9Silver = 130
+Medal2YearsGold = 114
+Medal2YearsSilver = 113
+MedalAssistanceBrilliant = 104
+MedalAssistanceBronze = 100
+MedalAssistanceGold = 102
+MedalAssistancePlatinum = 103
+MedalAssistanceSilver = 101
+MedalCompetitiveBrilliant = 119
+MedalCompetitiveBronze = 115
+MedalCompetitiveGold = 117
+MedalCompetitivePlatinum = 118
+MedalCompetitiveSilver = 116
+MedalNewYearMadness2020Brilliant = 124
+MedalNewYearMadness2020Bronze = 120
+MedalNewYearMadness2020Gold = 122
+MedalNewYearMadness2020Platinum = 123
+MedalNewYearMadness2020Silver = 121
+MedalVeteran2018Bronze = 105
+MedalVeteran2018Gold = 107
+MedalVeteran2018Platinum = 108
+MedalVeteran2018Silver = 106
+MedalVeteran2019Bronze = 109
+MedalVeteran2019Gold = 111
+MedalVeteran2019Platinum = 112
+MedalVeteran2019Silver = 110
+MedalVeteran2020Bronze = 125
+MedalVeteran2020Gold = 127
+MedalVeteran2020Platinum = 128
+MedalVeteran2020Silver = 126
+
+P350Cyber = 13001
+P350CyberStatTrack = 1013001
+P350ForestSpirit = 13003
+P350ForestSpiritStatTrack = 1013003
+P350Rally = 13004
+P350RallyStatTrack = 1013004
+P350Savannah = 13002
+P350Skull = 13005
+P350_Nano = 81323
+P350_Poison = 71306
+P350_Poison_StatTrack = 1071306
+
+P90Fury = 35003
+P90Ghoul = 35002
+P90GhoulStatTrack = 1035002
+P90Pilot = 35004
+P90Radiation = 35001
+P90_Jungle = 43502
+P90_Samurai = 83512
+P90_Samurai_StatTrack = 1083512
+
+SM1014Branches = 62006
+SM1014Facet = 62001
+SM1014Necromancer = 62003
+SM1014NecromancerStatTrack = 1062003
+SM1014NorthernCamouflage = 62004
+SM1014Pathfinder = 62002
+SM1014PathfinderStatTrack = 1062002
+SM1014Quake = 62005
+SM1014_Blaster = 45302
+SM1014_New1 = 66201
+SM1014_New1_StatTrack = 1066201
+SM1014_Shark = 86216
+SM1014_Shark_StatTrack = 1086216
+
+Tec9_Aurora = 41601
+Tec9_Fable = 41605
+Tec9_Fable_StatTrack = 1041605
+Tec9_New1 = 61601
+Tec9_New1_StatTrack = 1061601
+Tec9_New3 = 51601
+Tec9_Reactor = 71607
+Tec9_Reactor_StatTrack = 1071607
+Tec9_Spot = 81613
+
+UMP45Beast = 32005
+UMP45BeastStatTrack = 1032005
+UMP45Cyberpunk = 32001
+UMP45CyberpunkStatTrack = 1032001
+UMP45Iron = 32006
+UMP45Pixel = 32002
+UMP45Shark = 32003
+UMP45SharkStatTrack = 1032003
+UMP45Winged = 32004
+UMP45WingedStatTrack = 1032004
+UMP45_Cerberus = 43202
+UMP45_Cerberus_StatTrack = 1043202
+UMP45_Gas = 73208
+UMP45_Gas_StatTrack = 1073208
+UMP45_PixelV2 = 43201
+UMP45_WhiteCarbon = 73209
+UMP45_WhiteCarbon_StatTrack = 1073209
+
+USPGenesis = 12001
+USP_2Years = 12002
+USP_2YearsRed = 12003
+USP_Fiend = 41201
+USP_Line = 81214
+USP_New1 = 61201
+USP_New1_StatTrack = 1061201
+USP_Pisces = 41212
+USP_Pisces_StatTrack = 1041212
+USP_Yellow = 81215
+
+Stickers:
+Sticker_AWPMaster = 1201
+Sticker_AWPMasterColor = 1202
+Sticker_Biohazard = 1133
+Sticker_Danger = 1134
+Sticker_DangerZone = 1135
+Sticker_DeagleMaster = 1216
+Sticker_DeagleMasterColor = 1217
+Sticker_Dragon = 1203
+Sticker_DropTheBomb = 1136
+Sticker_EntryKill = 1204
+Sticker_GasMask = 1137
+Sticker_GrenadeWithLove = 1205
+Sticker_HeadshotZone = 1206
+Sticker_King = 1207
+Sticker_LuckyStar = 1218
+Sticker_Minus28 = 1200
+Sticker_Murder = 1140
+Sticker_New1 = 1121
+Sticker_New10 = 1130
+Sticker_New11 = 1131
+Sticker_New12 = 1132
+Sticker_New2 = 1122
+Sticker_New3 = 1123
+Sticker_New4 = 1124
+Sticker_New5 = 1125
+Sticker_New6 = 1126
+Sticker_New7 = 1127
+Sticker_New8 = 1128
+Sticker_New9 = 1129
+Sticker_NiceSkill = 1208
+Sticker_NiceSkillColor = 1209
+Sticker_Pro = 1210
+Sticker_RadiateHeat = 1141
+Sticker_Radiation = 1142
+Sticker_Samurai = 1211
+Sticker_SmokeGrenade = 1143
+Sticker_SpareGold = 1212
+Sticker_StrikeColor = 1213
+Sticker_Toxic = 1144
+Sticker_ToxicColor = 1145
+Sticker_V2 = 1214
+Sticker_V2Pro = 1215
+Sticker_Z9Mask = 1138
+Sticker_Z9MaskColor = 1139
+Sticker_Z9Project = 1146
+Sticker_Z9ProjectGold = 1147
+Feed = 1111
+Zombie = 1119
+Anticamper = 1112
+Batrider = 1106
+BloodyClown = 1114
+Devilish = 1109
+Dracula = 1120
+EvilPumpkin = 1118
+GangstaPumpkin = 1107
+Ghosty = 1115
+Ghoul = 1105
+GiftNewYear2019 = 501
+GoldSkull = 1101
+Halloween2019StickersPack = 701
+HurryGhost = 1110
+InfernalSkull = 1104
+MadBat = 1103
+Mummy = 1116
+Punisher = 1102
+Rush = 1117
+S1001 = 1113
+Snot = 1108
+Zombie = 1119
+
+Boxes:
+FableBox = 404
+FableCase = 304
+
+OriginCase = 301
+FuriousCase = 302
+
+RivalCase = 303
+FableCase = 304
+
+OriginBox = 401
+FuriousBox = 402
+
+RivalBox = 403
+FableBox = 404
+
+XP:
+ProjectZ9_1000Xp = 802
+ProjectZ9_500Xp = 801
+
+GoldPass:
+TwoYearsEventGoldPass = 601
+NewYearMadness2020GoldPass = 602
+ProjectZ9GoldPass = 603
+
+StickerPacks:
+RainbowStickerPack = 702
+Halloween2019StickersPack = 701
+
+Gifts:
+GiftNewYear2019 = 501
+
+айди оружий 
+G22 = 11
+ USP = 12
+ P350 = 13
+ Deagle = 15
+ Tec9 = 16
+ FiveSeven = 17
+ UMP45 = 32
+ MP7 = 34
+ P90 = 35
+ MP5 = 36
+ AKR = 44
+ AKR12 = 45
+ M4 = 46
+ M16 = 47
+ FAMAS = 48
+ FnFal = 49
+ AWM = 51
+ M40 = 52
+ M110 = 53
+ SM1014 = 62
+ FabM = 63
+ Knife = 70
+ KnifeBayonet = 71
+ KnifeKarambit = 72
+ jKommando = 73
+ KnifeButterfly = 75
+ FlipKnife = 77
+ KunaiKnife = 78
+ ScorpionKnife = 79
+ GrenadeHE = 91
+ GrenadeSmoke = 92
+ GrenadeFlash = 93
+ Bomb = 100
+ Defuser = 101
+ DefuseKit = 102
+ Vest = 110
+ VestAndHelmet = 111
+ HackKit = 103
+ StealKit = 104
+ Container = 105
+ BombC4 = 106
